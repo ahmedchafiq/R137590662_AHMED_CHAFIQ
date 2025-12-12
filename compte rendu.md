@@ -1,5 +1,5 @@
 # 📘 RAPPORT COMPLET – ANALYSE DATA SCIENCE DU CANCER DU SEIN
-![IMG_5613.jpg](https://github.com/fadlisalmaencg-a11y/DS-2025/blob/main/photo%20de%20salma%20fadli.jpeg?raw=true)
+![IMG_5613.jpg](https://github.com/ahmedchafiq/R137590662_AHMED_CHAFIQ/blob/75e49df8852661a4311221856dd805c4094dc65e/IMG_5613.jpg)
 
 ---
 
