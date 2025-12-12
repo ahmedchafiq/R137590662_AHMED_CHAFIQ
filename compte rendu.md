@@ -1,5 +1,5 @@
 # 📘 RAPPORT COMPLET – ANALYSE DATA SCIENCE DU CANCER DU SEIN
-_(Style identique au rapport « Correction Projet »)_
+![IMG_5613.jpg](https://github.com/fadlisalmaencg-a11y/DS-2025/blob/main/photo%20de%20salma%20fadli.jpeg?raw=true)
 
 ---
 
